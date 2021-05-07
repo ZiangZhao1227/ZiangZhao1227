@@ -19,12 +19,12 @@
 ```javascript
 const ziang = {
   pronouns: "he" | "him",
-  code: [Javascript, Reactnative, HTML, CSS, Git, Node, Java, Kotlin, Mysql],
-  tools: [React, Visualstudiocode, Node, Webstorm, Android studio, Figma, Postman],
+  code: [Javascript, ReactNative, HTML, CSS, Git, Node, Java, Kotlin, Mysql, swift],
+  tools: [React, Visualstudiocode, Node, Webstorm, Android studio, Figma, Postman, Xcode, IntelliJ IDEA],
   interests: ["web frontend development", "User interface", "design system pattern"],
   info: {
                         language: "Chinese/English/Finnish(Studying now)",
-                        habits: "Coding, video games, badminton",
+                        habits: "Coding,Designing, video games, badminton",
                         location: "Helsinki,espoo"
                       },
  challenge: "I am trying to learn advanced javascript by myself in 2 months",
