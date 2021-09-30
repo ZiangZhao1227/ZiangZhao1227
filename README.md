@@ -4,7 +4,7 @@
 
 <p >
    <a href="https://www.linkedin.com/in/ziang-zhao-2301061a2/"><img height="30" src="https://i.ibb.co/VwYbX9n/linkedin.png"></a>&nbsp;&nbsp;
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; 
 
 #### What I have learned
 
