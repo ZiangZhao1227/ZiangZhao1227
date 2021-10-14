@@ -1,6 +1,7 @@
 <h2> Hi, I'm Ziang Zhao! <img src="https://media.giphy.com/media/l378ryVoDmMwKoSt2/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="230">
 <p><em>Mobile/Web Developer at <a href="https://metropolia.fi/en">Metropolia UAS</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br></p>
+<p>Currently working at <a href="https://www.arction.com/">Arction</a> as a web developer</p>
 
 <p >
    <a href="https://www.linkedin.com/in/ziang-zhao-2301061a2/"><img height="30" src="https://i.ibb.co/VwYbX9n/linkedin.png"></a>&nbsp;&nbsp;
