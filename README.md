@@ -31,7 +31,7 @@ const ziang = {
                         location: "Helsinki,espoo"
                       },
  challenge: "I am trying to learn advanced javascript by myself in 2 months",
- doing: "Currently working on a react native app with my group, this project is about adopt a pet"
+ doing: "Currently developing a Pokemon app by using Kotlin."
 }
 ```
 
