@@ -25,18 +25,18 @@
       <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="scss" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="50"/>
-   <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
 
-#### Tools I have used
+### Tools I have used
 
  [![Webstorm Badge](https://img.shields.io/badge/-WebStorm-000000?style=for-the-badge&labelColor=white&logo=WebStorm&logoColor=000000)](#) [![VScode Badge](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge&labelColor=black&logo=Visual-Studio-Code&logoColor=007ACC)](#) [![InVision Badge](https://img.shields.io/badge/-InVision-FF3366?style=for-the-badge&labelColor=black&logo=InVision&logoColor=FF3366)](#) [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=Figma&logoColor=F24E1E)](#) [![AndroidStudio Badge](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=for-the-badge&labelColor=black&logo=Android-Studio&logoColor=3DDC84)](#) [![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=Postman&logoColor=FF6C37)](#) [![Xcode Badge](https://img.shields.io/badge/-Xcode-FFB71B?style=for-the-badge&labelColor=black&logo=Xcode&logoColor=FFB71B)](#)
  
-#### Languages I have used the most
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiangZhao1227&hide=java&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+### Languages I have used the most
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiangZhao1227&layout=compact&hide=java&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
