@@ -37,7 +37,7 @@
 const ziang = {
   pronouns: "he" | "him",
   code: [Javascript, ReactNative, HTML, CSS, Scss, React, Redux, Git, Node, Java, Kotlin, Mysql, Swift],
-  tools: [React, Visualstudiocode, Node, Webstorm, Android studio, Figma, Postman, Xcode, IntelliJ IDEA],
+  tools: [Visualstudiocode, Webstorm, Android studio, Figma, Postman, Xcode, IntelliJ IDEA],
   interests: ["Full-stack development", "Mobile development", "design system pattern"],
   info: {
                         language: "Chinese/English/Finnish(Studying now)",
