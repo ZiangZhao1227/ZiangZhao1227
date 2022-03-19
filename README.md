@@ -7,7 +7,7 @@
 
 
 ### <img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Full-stack and Mobile Developer.
+- 🏦 I'm a Junior Full-stack Developer.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 A Bachelor's student at [Metropolia University of Applied Sciences](https://www.metropolia.fi/fi?gclid=CjwKCAiA0KmPBhBqEiwAJqKK43FJ9s-fEeokzIFzMek99d4XTmP0VaIjzMXhWpE200QbYrruGkEWhhoCvw0QAvD_BwE)
 - 🌞 Check out my [website](https://online-portfolio-ziang.netlify.app/)
