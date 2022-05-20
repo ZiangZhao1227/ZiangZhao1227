@@ -1,13 +1,10 @@
-# Hi there! I am Ziang! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px">
 <p align="center">
-<a href="https://www.linkedin.com/in/ziang-zhao-2301061a2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/Torres#9236" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
-<a href="https://www.instagram.com/torreszi_/?hl=en"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" /></a>
+<a href="https://www.linkedin.com/in/ziang-zhao-2301061a2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="60" width="60" /></a>&nbsp;
 </p>
 
 
 ### <img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Junior Full-stack Developer.
+- 🏦 I'm a Junior Software Developer.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 A Bachelor's student at [Metropolia University of Applied Sciences](https://www.metropolia.fi/fi?gclid=CjwKCAiA0KmPBhBqEiwAJqKK43FJ9s-fEeokzIFzMek99d4XTmP0VaIjzMXhWpE200QbYrruGkEWhhoCvw0QAvD_BwE)
 - 🌞 Check out my [website](https://online-portfolio-ziang.netlify.app/)
