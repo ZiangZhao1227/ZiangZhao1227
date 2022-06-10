@@ -3,7 +3,7 @@
 </p>
 
 
-### <img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+### About Me:
 - 🏦 I'm a Junior Software Developer.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 A Bachelor's student at [Metropolia University of Applied Sciences](https://www.metropolia.fi/fi?gclid=CjwKCAiA0KmPBhBqEiwAJqKK43FJ9s-fEeokzIFzMek99d4XTmP0VaIjzMXhWpE200QbYrruGkEWhhoCvw0QAvD_BwE)
