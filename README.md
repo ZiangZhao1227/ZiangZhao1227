@@ -1,8 +1,3 @@
-<p align="center">
-<a href="https://www.linkedin.com/in/ziang-zhao-2301061a2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="60" width="60" /></a>&nbsp;
-</p>
-
-
 ### About Me:
 - 🏦 I'm a Software Developer.
 - 📝 A Bachelor's student at [Metropolia University of Applied Sciences](https://www.metropolia.fi/fi?gclid=CjwKCAiA0KmPBhBqEiwAJqKK43FJ9s-fEeokzIFzMek99d4XTmP0VaIjzMXhWpE200QbYrruGkEWhhoCvw0QAvD_BwE)
