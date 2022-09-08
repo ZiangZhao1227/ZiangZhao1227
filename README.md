@@ -1,5 +1,5 @@
 ### About Me:
-- 🏦 I'm a Software Developer.
+- 🏦 I'm a Software Developer at [one.com](https://www.one.com/en/)
 - 📝 A Bachelor's student at [Metropolia University of Applied Sciences](https://www.metropolia.fi/fi?gclid=CjwKCAiA0KmPBhBqEiwAJqKK43FJ9s-fEeokzIFzMek99d4XTmP0VaIjzMXhWpE200QbYrruGkEWhhoCvw0QAvD_BwE)
 - 💻 I use daily **Javascript**, **Typescript**, **HTML**, **CSS**, **React**
 - 💬 Feel free to share your web and mobile development questions with me.
